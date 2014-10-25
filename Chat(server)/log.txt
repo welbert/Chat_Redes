@@ -1,0 +1,15 @@
+(2014-02-11)O Usuario ae entrou no chat!
+(2014-02-11)O Usuario wel entrou no chat!
+(2014-02-11)wel : 1
+(2014-02-11)O Usuario wel saiu do chat!
+(2014-02-11)ae : 2
+(2014-02-11)O Usuario ae saiu do chat!
+(2014-02-13)O Usuario wel entrou no chat!
+(2014-02-13)O Usuario luis entrou no chat!
+(2014-02-13)luis : .
+(2014-02-13)O Usuario ae entrou no chat!
+(2014-02-13)(PM)luis : aew
+(2014-02-13)luis : manda uma frase decente
+(2014-02-13)O Usuario ae saiu do chat!
+(2014-02-13)O Usuario luis saiu do chat!
+(2014-02-13)O Usuario wel saiu do chat!
